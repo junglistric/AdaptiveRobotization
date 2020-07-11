@@ -15,3 +15,9 @@ Adaptive Robotization
 %block size, related to robot roughness and 2) synthesis hop size, related
 
 %to robot pitch.  The samples are set to zero between synthesis grains.
+
+
+Algorithm adapted from DAFX: Digital Audio Effects
+Udo Zolzer
+Copyright q 2002 John Wiley & Sons, Ltd
+ISBNs: 0-471-49078-4 (Hardback); 0-470-84604-6 (Electronic)
